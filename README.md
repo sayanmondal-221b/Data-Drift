@@ -1,1 +1,2 @@
-# Srijan2025_Data-Drift
+# Data-Drift
+This is the solution I tried for the event Data Drift in Srijan 2025.
